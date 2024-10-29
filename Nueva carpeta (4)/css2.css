@@ -1,0 +1,33 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+
+h2 {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-title {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.card-text {
+    color: #555;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
